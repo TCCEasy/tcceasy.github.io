@@ -40,21 +40,21 @@
 
 #home .whatsapp-button {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: 0px;
+  right: 0px;
   width: 128px;
   height: 128px;
   background-color: #25d366;
   color: white;
   border-radius: 50%;
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   box-shadow: 2px 2px 3px #999;
   z-index: 100;
 }
 
 #home .whatsapp-button img {
-  margin-top: 16px;
+  margin-top: 0px;
 }
 
 .pandevs-link {
