@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://tcceasy.github.io
+Sitemap: https://borisedison.in/sitemap.xml
